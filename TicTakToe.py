@@ -1,7 +1,4 @@
-# game_board = ['-', '-', '-'],['-', '-', '-'], ['-', '-', '-']
-#
-# game_board [2][0] = 15
-# print(*game_board, sep='\n')
+
 
 class TicTacToeBoard:
 
